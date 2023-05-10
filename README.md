@@ -1,4 +1,4 @@
-# CNN for Vibration Analysis
+# Vibration Analysis of Dams using a Convolutional Neural Network (CNN)
 
 * Receives spectrograms as input.
 * Outputs the first five natural frequency values.
