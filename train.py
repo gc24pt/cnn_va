@@ -59,7 +59,7 @@ def create_model(height,width):
     return model
 
 def train_model(xtrain, ytrain, xval, yval, height, width):
-    NUM_EPOCHS = 20
+    NUM_EPOCHS = 200
     BS = 32
     opt = Adam(learning_rate=0.0001)
     
