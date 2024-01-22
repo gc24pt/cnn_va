@@ -5,13 +5,14 @@
 
 ## Quick start
 
-Python 3.10
+* Python 3.10
+* PyTorch
 
 ```
 pip install -r requirements.txt
 ```
 
-Extract all zips inside the data folder into a single folder.
+Extract all zips inside the data folder into a single *specs* folder.
 
 ```
 $ python train.py
